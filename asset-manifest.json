@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/A-MAZE-ME/static/css/main.59ffb9a6.css",
+    "main.js": "/A-MAZE-ME/static/js/main.8f89d34c.js",
+    "index.html": "/A-MAZE-ME/index.html",
+    "main.59ffb9a6.css.map": "/A-MAZE-ME/static/css/main.59ffb9a6.css.map",
+    "main.8f89d34c.js.map": "/A-MAZE-ME/static/js/main.8f89d34c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ffb9a6.css",
+    "static/js/main.8f89d34c.js"
+  ]
+}
